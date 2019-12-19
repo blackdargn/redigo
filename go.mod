@@ -1,4 +1,4 @@
-module redigo
+module github.com/blackdargn/redigo
 
 go 1.13
 
