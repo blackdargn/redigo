@@ -27,8 +27,6 @@ import (
 	"strings"
 	"testing"
 	"time"
-
-	"github.com/gomodule/redigo/redis"
 )
 
 type testConn struct {
